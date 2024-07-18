@@ -65,24 +65,6 @@ const About = () => {
                 </div>
 
                 <div className="top-line"></div>
-                <h2 className="underline">My Education</h2>
-                <div className="image-wrapper">
-                    <div className="image-hover">
-                        <img src={LogoPerp} alt="Perpetual" />
-                        <div className="image-overlay">
-                            <span className="overlay-text">University of Perpetual Help Laguna JONELTA <br />Senior High School <br />(2018-2020)</span>
-                        </div>
-                    </div>
-                    <br />
-                    <div className="image-hover">
-                        <img src={LogoMcl} alt="Mcl" />
-                        <div className="image-overlay">
-                            <span className="overlay-text">Mapua Malayan Colleges of Laguna <br />Bachelor of Science in Computer Science <br />(2020-Present)</span>
-                        </div>
-                    </div>
-                </div>
-
-                <div className="top-line"></div>
                 <h3 className="underline">My Projects</h3>
                 <div className="projects-container">
                     <div className="project-card">

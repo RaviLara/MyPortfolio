@@ -36,7 +36,7 @@ const Contact = () => {
             <div className="container contact-page">
                 <div className='text-zone'>
                     <div className="top-line"></div>
-                    <h1 className="underline">CoAAAAAAntact Me!</h1>
+                    <h1 className="underline">Contact Me!</h1>
                     <p>
                 +63 (905-312-3052) · laraemmanuelravi@gmail.com · ermlara@live.mcl.edu.ph
                 </p>

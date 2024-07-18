@@ -11,7 +11,6 @@ const Sidebar = () => (
     <div className='nav-bar'>
         <Link className='logo' to='/'>
             <img src={LogoS} alt='logo' />
-            <img className='sub-logo' src={LogoSubtitle} alt='Ravi' />
         </Link>
         <nav>
             <NavLink exact='true' activeclassname='active' to='/'>
@@ -27,16 +26,6 @@ const Sidebar = () => (
                 <FontAwesomeIcon icon={faPhone} color='#4d4d4e' />
             </NavLink>
         </nav>
-        <ul>
-            <li>
-                <a target="_blank" rel='noreferrer' href='https://github.com/RaviLara'>
-                    <FaGithub color="#4d4d4e" />
-                </a>
-                <a target="_blank" rel='noreferrer' href='https://www.linkedin.com/in/emmanuel-ravi-m-lara-667b26318/'>
-                    <FaLinkedin color="#4d4d4e" />
-                </a>
-            </li>
-        </ul>
     </div>
 )
 

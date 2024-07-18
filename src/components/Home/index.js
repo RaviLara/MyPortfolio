@@ -15,9 +15,9 @@ const Home = () => {
                 <br/>
                 </h1>
                 <h2>
-                +63 (905-312-3052) · laraemmanuelravi@gmail.com · ermlara@live.mcl.edu.ph
+                Mapúa Malayan Colleges of Laguna
                 </h2>
-                <h3>PhD in Computer Science / Fullstack Developer / Theoretical Physicist / </h3>
+                <h3>Bachelor of Science in Computer Science</h3>
                 <Link to="/contact" className="flat-button">CONTACT ME</Link>
                 <button className="flat-button" onClick={handleDownload}>MY CV</button>
             </div>
